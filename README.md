@@ -19,6 +19,10 @@ Hope you will enjoy coding.
 ## User Experience (UX)
 
 * Project Goals: 
+  
+I want to make an easy and effective website.
+Providing all the nessesary information about the Beauty Salon and the services providen.
+Contact details.
 
 
 
