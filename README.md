@@ -21,14 +21,14 @@ Hope you will enjoy coding.
 
 * Project Goals: 
   
-  * Main point of this project is to give more information about our salon,
-  services we provide.
+   *  Main point of this project is to give more information about our salon,
+   services we provide.
 
    * I want to make an easy and effective website.
                                        <!--Strong-->
    * Easy access with our  team in __Xhulja's Beauty Salon__ and more knowledge about treatments providen in our salon.
 
-Contact details.
+   * Contact details.
 
 
 
@@ -41,7 +41,9 @@ Contact details.
   
   1.Interactive website so user can choose the best beauty services.
 
+
   2.Effective website that serves as a tool to find the information they need.
+
 
   3.Contact forms.
 
@@ -55,15 +57,15 @@ Contact details.
 
 * User Stories:
   
-  Pamela.D 
+   * Pamela.D 
 
   " I prefer to use simple websites,
    having all the information needed so i can choose the best beauty service that im looking for."
 
 
-Asra.M 
+  * Asra.M 
 
-" I like websites like this where i can see in pictures what this salon provides.    
+  " I like websites like this where i can see in pictures what this salon provides.    
 I always have find it easy to contact them from the website.
 The good think is that i can use this website from my phone, tablet, pc."
 
@@ -110,7 +112,7 @@ The good think is that i can use this website from my phone, tablet, pc."
 * Background:
  * Images:
   
-  I used real pictures of my work converted with [tinypng](https://tinypng.com/)
+   I used real pictures of my work converted with [tinypng](https://tinypng.com/)
 
 
 ## Wireframes
