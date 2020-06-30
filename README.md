@@ -66,8 +66,8 @@ Hope you will enjoy coding.
   * Asra.M 
 
   " I like websites like this where i can see in pictures what this salon provides.    
-I always have find it easy to contact them from the website.
-The good think is that i can use this website from my phone, tablet, pc."
+    I always have find it easy to contact them from the website.
+    The good thing is that i can use this website from my phone, tablet, pc."
 
 
 
