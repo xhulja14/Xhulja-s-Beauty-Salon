@@ -32,7 +32,10 @@ Contact details.
 
 
 * User Goals:
-  1.
+  
+  1.Interactive website so user can choose the best beauty services.
+  2.Effective website that serves as a tool to find the information they need.
+  3.Contact forms.
 
 
 
