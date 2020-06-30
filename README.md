@@ -1,5 +1,5 @@
 
-
+<!-- Headings-->
 # Xhulja's Beauty Salon
 
 Thank you for visiting my website. You will find all the information about my project in this README.md file.
@@ -89,12 +89,14 @@ Contact details.
 
 ## Languages:
 
-HTML
-CSS
+[HTML](https://en.wikipedia.org/wiki/HTML5)
+
+
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 
 
-##Tools 
+## Tools 
 * Git
 * Bootstrap
 * Font-Awesome
