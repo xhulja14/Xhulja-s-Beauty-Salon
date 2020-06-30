@@ -12,12 +12,9 @@ Hope you will enjoy coding.
 * Design Choices 
   * Fonts
    * Colours
-   * Images
+   * Images:
    * Icons:
-  The icons used are self explanatory so that the user does not need to struggle to interpret what the icon will actually do. I use the icon ‘bars’ from font-awesome icons, to display the classic ‘burger-button’ on tablet and mobile devices, this is well known in the industry as being a point for navigation. I had to make sure that the icon was big enough on smaller devices to ensure easy access.
-  
-
-   * Backgrounds
+ * Backgrounds
  * Wireframes
 
 ## User Experience (UX)
@@ -104,10 +101,14 @@ The good think is that i can use this website from my phone, tablet, pc."
 * Icons:
   The icons used are self explanatory , so easy for users to interpret what the icon will actually do. 
   I use the icon ‘bars’ from font-awesome icons.
- I had to make sure that the icon was big enough on smaller devices to ensure easy access.
+ I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
 
 * Colours:
 * Background:
+ * Images:
+  
+  I used real pictures of my work converted with [tinypng](https://tinypng.com/)
+
 
 ## Wireframes
 
