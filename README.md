@@ -21,9 +21,12 @@ Hope you will enjoy coding.
 
 * Project Goals: 
   
-I want to make an easy and effective website.
+  * Main point of this project is to give more information about our salon,
+  services we provide.
 
-Providing all the nessesary information about the Beauty Salon and the services providen.
+   * I want to make an easy and effective website.
+                                       <!--Strong-->
+   * Easy access with our  team in __Xhulja's Beauty Salon__ and more knowledge about treatments providen in our salon.
 
 Contact details.
 
@@ -130,6 +133,6 @@ The good think is that i can use this website from my phone, tablet, pc."
 * Font-Awesome
 
 
+<!--Strong-->
 
-
-Happy coding!
+ __Enjoy coding!__
