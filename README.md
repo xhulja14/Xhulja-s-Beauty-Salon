@@ -1,5 +1,5 @@
 
-<!-- Headings-->
+<!-- Heading-->
 # Xhulja's Beauty Salon
 
 
@@ -142,6 +142,31 @@ Hope you will enjoy coding.
 * [Bootstrap](https://maps.google.com/)
 * [Font-Awesome](https://fontawesome.com/)
 * [TinyPng](https://tinypng.com/) __(image compression)__
+
+
+ # Deployment:   
+
+Xhulja's Beauty Salon was developed on GitPod, using  GitHub to host the repository.
+
+When deploying Xhulja's Beauty Salon  the following steps were made:
+
+ * Opened up GitHub in the browser.
+ * Signed in using username and password.
+ * Selected my repositories.
+ *  Navigated to 'https://github.com/xhulja14/Xhulja-s-Beauty-Salon'.
+ * In the top navigation clicked 'settings'.
+ * Scrolled down to the GitHub Pages area.
+ * Selected 'Master Branch' from the 'Source' dropdown menu.
+ * Clicked to confirm my selection.
+ * Xhulja's Beauty Salon now live on GitHub Pages.D
+
+
+
+
+
+
+
+
 
 
 <!--Strong-->
