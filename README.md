@@ -2,6 +2,13 @@
 <!-- Headings-->
 # Xhulja's Beauty Salon
 
+
+<!--Images-->
+
+![Nails](https://scontent.fdub3-1.fna.fbcdn.net/v/t1.0-9/p960x960/46489612_2180181588907954_3426005273540558848_o.jpg?_nc_cat=111&_nc_sid=9e2e56&_nc_ohc=APEiiG9BBWYAX82fpJh&_nc_ht=scontent.fdub3-1.fna&_nc_tp=6&oh=199d73204804663d3a95dbb569c02630&oe=5F223FC3)
+![Nails](https://scontent.fdub3-1.fna.fbcdn.net/v/t1.0-9/36660756_2076876245905156_6742242676327841792_o.jpg?_nc_cat=108&_nc_sid=9e2e56&_nc_ohc=vOqY2WbFxTsAX8emZCj&_nc_ht=scontent.fdub3-1.fna&oh=c484fefdd9a59d7cf92e07bf45b014c9&oe=5F2468CF)
+
+
 Thank you for visiting my website. You will find all the information about my project in this README.md file.
 Hope you will enjoy coding.
 
@@ -19,6 +26,7 @@ Hope you will enjoy coding.
 
 ## User Experience (UX)
 
+<!--UL-->
 * Project Goals: 
   
    *  Main point of this project is to give more information about our salon,
@@ -36,7 +44,7 @@ Hope you will enjoy coding.
 
 
 
-
+<!--OL-->
 * User Goals:
   
   1.Interactive website so user can choose the best beauty services.
