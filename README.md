@@ -138,9 +138,10 @@ Hope you will enjoy coding.
 
 
 ## Tools 
-* Git
-* Bootstrap
-* Font-Awesome
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://maps.google.com/)
+* [Font-Awesome](https://fontawesome.com/)
+* [TinyPng](https://tinypng.com/) __(image compression)__
 
 
 <!--Strong-->
