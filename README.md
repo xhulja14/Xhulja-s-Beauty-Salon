@@ -111,12 +111,22 @@ Hope you will enjoy coding.
 # Design Choises
 
 * Fonts:
+  
+  I will use the font [LATO](http://www.latofonts.com/lato-free-fonts/) as it  a very simple style which provides the easiest
+   nature of the overall site design.
+   
+    The focus of the content is to provide an informative experience for the customer,
+     so i think this is the right font for my project.
 * Icons:
   The icons used are self explanatory , so easy for users to interpret what the icon will actually do. 
   I use the icon ‘bars’ from font-awesome icons.
  I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
 
 * Colours:
+   * Primary: #DA17B7 "Steel Pink"
+ rgb ( 233, 122, 183 )
+
+
 * Background:
  * Images:
   
