@@ -118,6 +118,7 @@ Hope you will enjoy coding.
     The focus of the content is to provide an informative experience for the customer,
      so i think this is the right font for my project.
 * Icons:
+  
   The icons used are self explanatory , so easy for users to interpret what the icon will actually do. 
   I use the icon ‘bars’ from font-awesome icons.
  I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
@@ -148,8 +149,9 @@ Hope you will enjoy coding.
    I used real pictures of my work converted with [tinypng](https://tinypng.com/)
 
 
-## Wireframes
-
+## Wireframes:
+I built Wireframes using [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwl4v4BRDaARIsAFjATPlYpXIjRR0-L308Af_Usr5Zz7_AO_kIghwLibynrZZY548o6rkIqbcaAt6NEALw_wcB).  
+It was very simple design just to get the idea how is going to look the structure of the page in different devices.
 
 
 
