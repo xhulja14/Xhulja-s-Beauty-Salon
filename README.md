@@ -123,11 +123,26 @@ Hope you will enjoy coding.
  I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
 
 * Colours:
-   * Primary: #DA17B7 "Steel Pink"
- rgb ( 233, 122, 183 )
+  
+   Pink colour is a delicate color that means sweet, nice, 
+   playful, cute, romantic, charming, and tenderness,
+    is associated with flowers, and sweetness. 
 
+   * Primary: #DA17B7 "__Steel Pink__" i chose this as primary colour because i think
+   is perfect for influencing cuteness and charm.
+
+   * Secondary: #FD6C9E "__French Pink__" this colour is kind and comforting, full of sympathy and compattion,
+  makes us feel accepted, perfect feeling for clients.
+ 
+   * Navigation colour: #BC00DD "__Electric Purple__" The color purple is often associated with royalty, nobility, luxury, power, and ambition.
+   Purple also represents meanings of wealth, extravagance, creativity, wisdom, dignity,  peace, mystery, independence, and magic.
+   * Default Background colour: #FADDE1 "__Pale Pink__" Pink shades are believed to bring about serenity, relaxation, acceptance, and contentment, 
+   as well to neutralize disorder or soften frustration.
 
 * Background:
+  
+  The images i used for background are real pictures made in my work,
+  because i think is good way of showing to clients what we offer.
  * Images:
   
    I used real pictures of my work converted with [tinypng](https://tinypng.com/)
