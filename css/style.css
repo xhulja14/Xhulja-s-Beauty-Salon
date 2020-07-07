@@ -1,3 +1,7 @@
+
+
+@import "../node_modules/bootstrap/scss/bootstrap"; 
+
 #best place {
     height: 600px;
 }
@@ -29,6 +33,7 @@
 .right-about-heading p {
     text-align: right;
 }
+
 <!--welcome-->
 
 

@@ -85,7 +85,10 @@ Hope you will enjoy coding.
 
 * Site Owner Goals:
 
+  * Creating an effective website.
 
+  * Gather information on what type of beauty services people are looking for.
+  * Recieve contact details through use of contact form.
 
 
 
