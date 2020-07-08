@@ -98,6 +98,11 @@ Hope you will enjoy coding.
 * Requirements:
 
 
+   * Navigate the website using the navbar which should be clear and hierarchical.
+  
+   * Be provided with information of different services of the salon.
+
+   * Contact Form validation to help against spam.
 
 
 
