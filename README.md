@@ -19,18 +19,18 @@ Hope you will enjoy coding.
 * Design Choices 
   * Fonts
    * Colours
-   * Images:
-   * Icons:
+   * Images
+   * Icons
  * Backgrounds
  * Wireframes
 
 ## User Experience (UX)
 
 <!--UL-->
-* Project Goals: 
+* __Project Goals__: 
   
    *  Main point of this project is to give more information about our salon,
-   services we provide.
+   services we provide, advertising our work.
 
    * I want to make an easy and effective website.
                                        <!--Strong-->
@@ -45,7 +45,7 @@ Hope you will enjoy coding.
 
 
 <!--OL-->
-* User Goals:
+* __User Goals__:
   
   1.Interactive website so user can choose the best beauty services.
 
@@ -63,7 +63,7 @@ Hope you will enjoy coding.
 
 
 
-* User Stories:
+* __User Stories__:
   
    * Pamela.D 
 
@@ -83,7 +83,7 @@ Hope you will enjoy coding.
 
 
 
-* Site Owner Goals:
+* __Site Owner Goals__:
 
   * Creating an effective website.
 
@@ -95,7 +95,7 @@ Hope you will enjoy coding.
 
 # User Requirements and Expectations
 
-* Requirements:
+  * __Requirements__:
 
 
    * Navigate the website using the navbar which should be clear and hierarchical.
@@ -110,32 +110,37 @@ Hope you will enjoy coding.
 
 
 
-* Expextations:
+  * __Expextations__:
 
+  * Content is visually satisfying and informative.
+  
+  * Navigation takes user to specific parts of the website.
 
-
+  * Form Validation works correctly.
 
 
 # Design Choises
 
-* Fonts:
+* __Fonts__:
   
   I will use the font [LATO](http://www.latofonts.com/lato-free-fonts/) as it  a very simple style which provides the easiest
    nature of the overall site design.
    
     The focus of the content is to provide an informative experience for the customer,
      so i think this is the right font for my project.
-* Icons:
+
+* __Icons__:
   
   The icons used are self explanatory , so easy for users to interpret what the icon will actually do. 
   I use the icon ‘bars’ from font-awesome icons.
  I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
 
-* Colours:
+* __Colours__:
   
    Pink colour is a delicate color that means sweet, nice, 
    playful, cute, romantic, charming, and tenderness,
     is associated with flowers, and sweetness. 
+    I think is best  colour for beauty salon websites.
 
    * Primary: #DA17B7 "__Steel Pink__" i chose this as primary colour because i think
    is perfect for influencing cuteness and charm.
@@ -145,19 +150,23 @@ Hope you will enjoy coding.
  
    * Navigation colour: #BC00DD "__Electric Purple__" The color purple is often associated with royalty, nobility, luxury, power, and ambition.
    Purple also represents meanings of wealth, extravagance, creativity, wisdom, dignity,  peace, mystery, independence, and magic.
+
    * Default Background colour: #FADDE1 "__Pale Pink__" Pink shades are believed to bring about serenity, relaxation, acceptance, and contentment, 
    as well to neutralize disorder or soften frustration.
 
-* Background:
+* __Background__:
   
   The images i used for background are real pictures made in my work,
   because i think is good way of showing to clients what we offer.
- * Images:
+
+
+ * __Images__:
   
    I used real pictures of my work converted with [tinypng](https://tinypng.com/)
 
 
 ## Wireframes:
+
 I built Wireframes using [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwl4v4BRDaARIsAFjATPlYpXIjRR0-L308Af_Usr5Zz7_AO_kIghwLibynrZZY548o6rkIqbcaAt6NEALw_wcB).  
 It was very simple design just to get the idea how is going to look the structure of the page in different devices.
 
@@ -173,6 +182,7 @@ It was very simple design just to get the idea how is going to look the structur
 
 
 ## Tools 
+
 * [Git](https://git-scm.com/)
 * [Bootstrap](https://maps.google.com/)
 * [Font-Awesome](https://fontawesome.com/)
@@ -193,7 +203,7 @@ When deploying Xhulja's Beauty Salon  the following steps were made:
  * Scrolled down to the GitHub Pages area.
  * Selected 'Master Branch' from the 'Source' dropdown menu.
  * Clicked to confirm my selection.
- * Xhulja's Beauty Salon now live on GitHub Pages.D
+ * Xhulja's Beauty Salon now live on GitHub Pages.
 
 
 
