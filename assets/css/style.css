@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap 100,200,300,400,500,600,700');
+/*----------------colours----------- */
+
+.bg-color-name-tittle {
+    background-color: #FD6C9E;
+}
+/*--------------heading----------- */
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../Xhulja's Beauty Salon Logo (1).jpg ");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+
+}
+
+.name {
+    font-family: "Lato",  sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #fff
+}
+
+.tittle {
+    font-family: "Lato", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    scroll-margin-bottom: 90px;
+    color: #fff;
+}
