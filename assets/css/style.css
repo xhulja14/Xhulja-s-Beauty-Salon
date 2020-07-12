@@ -34,3 +34,21 @@ header {
     scroll-margin-bottom: 90px;
     color: #fff;
 }
+
+
+#more {
+    display: none;
+}
+
+.row {
+    background-image: url(20190531_125947_IMG_5005.jpg);
+    
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
