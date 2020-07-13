@@ -171,7 +171,7 @@ Hope you will enjoy coding.
 
 I built Wireframes using [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwl4v4BRDaARIsAFjATPlYpXIjRR0-L308Af_Usr5Zz7_AO_kIghwLibynrZZY548o6rkIqbcaAt6NEALw_wcB).  
 It was very simple design just to get the idea how is going to look the structure of the page in different devices.
-
+ 
 
 
 ## Languages:
