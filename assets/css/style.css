@@ -4,13 +4,9 @@
 .bg-color-name-tittle {
     background-color: #FD6C9E;
 }
-/*--------------heading----------- */
-header {
-    margin: 0;
-}
 
 .logo {
-    background: url("../Xhulja's Beauty Salon Logo (1).jpg ");
+    background: url("../Xhulja's-Beauty-Salon-Logo (1).jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
