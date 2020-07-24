@@ -5,8 +5,15 @@
     background-color: #FD6C9E;
 }
 
+.navbar-brand {
+    border-color: #FD6C9E; 
+}
+.btn btn-info {
+background-color: #FD6C9E;
+    }
+
 .logo {
-    background: url("../Xhulja's-Beauty-Salon-Logo (1).jpg");
+    background: url("../Images/xhulja's-beauty-salon-logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,6 +21,9 @@
 
 }
 
+.row image-row {
+    background-position:center;
+}
 .name {
     font-family: "Lato",  sans-serif;
     font-weight: 100;
@@ -37,8 +47,7 @@
 }
 
 .row {
-    background-image: url(20190531_125947_IMG_5005.jpg);
-    
+    background-image: url(https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/Images/20190531_125947_IMG_5005.jpeg);
 }
 
 footer {
@@ -46,5 +55,6 @@ footer {
 }
 
 .social-networks {
+    display: inline;
     text-align: center;
 }
