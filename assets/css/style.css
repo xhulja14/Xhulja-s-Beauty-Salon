@@ -1,60 +1,92 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap 100,200,300,400,500,600,700');
-/*----------------colours----------- */
-
-.bg-color-name-tittle {
-    background-color: #FD6C9E;
-}
-
-.navbar-brand {
-    border-color: #FD6C9E; 
-}
-.btn btn-info {
-background-color: #FD6C9E;
-    }
-
-.logo {
-    background: url("../Images/xhulja's-beauty-salon-logo.jpg");
-    background-position: center;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+body {
+    background-image: url(https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/images/20180705_163518_IMG_1539.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0;
 
-}
-
-.row image-row {
-    background-position:center;
-}
-.name {
-    font-family: "Lato",  sans-serif;
-    font-weight: 100;
-    font-size: 46px;
-    margin-top: 50px;
-    color: #fff
-}
-
-.tittle {
-    font-family: "Lato", sans-serif;
-    font-weight: 200;
-    font-size: 28px;
-    margin-top: 20px;
-    scroll-margin-bottom: 90px;
-    color: #fff;
+  
+  /* Needed to position the navbar */
+  position: relative;
 }
 
 
-#more {
-    display: none;
+/* The navbar */
+.topnav {
+  overflow: auto;
+  background-color: #BC00DD;
+  float: right;
 }
 
-.row {
-    background-image: url(https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/Images/20190531_125947_IMG_5005.jpeg);
+/* Navbar links */
+.topnav a {
+  float:right;
+  color: #333;
+  text-align: center;
+  padding: 5px, 5px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-footer {
-    height: 150px;
+.topnav a:hover {
+  background-color: #FD6C9E;
+  color: black;
 }
-
-.social-networks {
-    display: inline;
+img {
+    width: 300px;
+}
+h2 {
     text-align: center;
+    font-size: 80px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.header {
+  overflow: hidden;
+  padding: 10px 10px;
+  
+}
+
+/* Style the header links */
+.header a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  line-height: 25px;
+  font-size: 18px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color: #FD6C9E;
+  color: black;
+}
+.header a.active {
+  background-color: #DA17B7;
+  color: white;
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: right;
+  }
+  .header-right {
+    float: right;
+  }
 }
