@@ -24,7 +24,7 @@ body {
   float:right;
   color: #333;
   text-align: center;
-  padding: 5px, 5px;
+  padding: 30px, 30px;
   text-decoration: none;
   font-size: 17px;
   
@@ -40,8 +40,9 @@ img {
 h2 {
     text-align: center;
     font-size: 80px;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 0px;
+    position: fixed;
 }
 .header {
   overflow: hidden;
@@ -65,6 +66,7 @@ h2 {
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
+  position: fixed;
 }
 
 .header a:hover {
@@ -99,7 +101,14 @@ ul {
     margin: 0;
     padding: 0;
 }
-
+.title {
+    font-family: "Lato", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+}
 div {
 width: 35px;
 height: 5px;
