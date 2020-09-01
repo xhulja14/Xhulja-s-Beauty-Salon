@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 body {
     background-image: url(https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/images/20180705_163518_IMG_1539.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
     margin: 0;
@@ -67,14 +67,14 @@ h3 {
   text-align: center;
   padding: 12px;
   text-decoration: none;
-  line-height: 25px;
+  line-height: 60px;
   font-size: 18px;
   
 }
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .header a.logo {
-  font-size: 25px;
+  font-size: 60px;
   font-weight: bold;
 
 }
@@ -90,17 +90,18 @@ h3 {
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
 @media screen and (max-width: 500px) {
-  .header a  {
+  .navbar a   {
     float: none;
     display: fixed;
     text-align: right;
   
   }
-
-  #menu {
-      background-color: lightpink;
-  }
+.container{
+    justify-content: space-between;
+}
   
+  #more {display: none;}
+
 .title {
     font-family: "Lato", sans-serif;
     font-weight: 200;
@@ -118,34 +119,37 @@ padding left: 50px;
 padding right: 50px;;
 }
 
-.btn btn-info {
-color: #FD6C9E;
+.btn {
+    background-color: #BC00DD; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
-
-.footer {
+ 
+ul#social-networks.row {
     position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
+  background-color: tranparent;
+  color: #ff00bc;
   text-align: center;
+  display: block;
   }
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 600px;
+  width: 100px;
   text-align: center;
   text-decoration: none;
+  color : #BC00DD;
 }
 .fa-facebook {
   background: #3B5998;
   color: white;
 }
 
-#social-networks {
-    display: inline-block;
-    text-align: center;
-    background-attachment: fixed;
-    background-color: #BC00DD;
-    }

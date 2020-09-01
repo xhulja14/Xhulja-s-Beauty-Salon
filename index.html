@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 <body>
@@ -29,26 +30,26 @@
 </header>
 <section>
 <div class="container">
-<div id="menu" class="row my-row justify-content-around">
-<div class="col-md-6 col-sm-6 col-lg-6">
+<div  class="row my-row justify-content-around">
+<div class="col-md-6 col-sm-6 col-lg-6 col-xl-6 content">
 <h3>NAIL TREATMENTS</h3>
 <h4>Manicures</h4>
 <h4>Pedicures</h4>
 <h4>Gel Extansions</h4>
 </div>
-<div class="col-md-6 col-sm-6 col-lg-6">
+<div class="col-md-6 col-sm-6 col-lg-6 col-xl-6 justify-content-end">
 <h3>FACE</h3>
 <h4>Eyebrow Shape</h4>
 <h4>Eyebrow Tint</h4>
 <h4>Dermalogica Facials</h4>
 </div>
 <div class="row my-row-2 justify-content-center">
-<div class="col-md-8 col-sm-8 col-lg-12">
+<div class="col-md-6 col-sm-8 col-lg-12 col-xl-12">
 <h3>BODY</h3>
 <h4>Hot Stone Massage</h4>
 <h4>Deep Tissue Massage</h4>
 </div>
-<div class="col-md-12 col-sm-8 col-lg-12">
+<div class="col-md-6 col-sm-8 col-lg-12 col-xl-12 justify-content-center">
 <h3>HAIR</h3>
 <h4>Blowdry</h4>
 <h4>Haircut</h4>
@@ -58,36 +59,53 @@
 </div>
 
 <div class="row my-row-3"> 
-<div class="col-md-12 col-sm-12 col-lg-12">
+<div class="col-md-6 col-sm-12 col-lg-12 col-xl-12">
 <h3>ABOUT US</h3>
-<button type="button"  class="btn btn-info" data-toggle="collapse" data-target="demo">Read More</button>
+<p>We offer best quality service<span id="dots">...</span><span id="more">
+We use best products for our costumers. Your happiness is our goal.</span> </p>
+
+<button type="button"  class="btn btn-info" onclick="myFunction()" id="myBtn" data-toggle="collapse" data-target="demo">Read More</button>
 <div id="demo" class="collapse">
-<p>We offer best quality service
-We use best products for our costumers. Your happiness is our goal. </p>
 </div>
 </div>
-<div class="col-md-12 col-sm-12 col-lg-12">
-<h3>OUR SERVICE RATED 4.9 (5.0) <i class="fas fa-star"></i></h3>
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="demo">Read reviews</button>
+<div class="col-md-6 col-sm-12 col-lg-12 col-xl-12">
+<h3>OUR SERVICE RATED 4.9 (5.0) <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></h3>
+<button type="button" class="btn btn-info" onclick="myFunction()" data-toggle="collapse" data-target="demo">Read reviews</button>
 <div  class="collapse">
 </div>
 </div>
 </div>
 </div>
 </div>
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
 
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less";
+    moreText.style.display = "inline";
+  }
+}
+</script>
 </section>
-<footer>
+<section>
 <div class="footer">
-<div class="container my-container">
-<ul id="social-networks" class="row footer-row">
-<li class="col-md-4"> <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"> Facebook </i></a></li>
-<li class="col-md-4"> <a href="https://www.instagram.com/?hl=en" target="_blank"><i class="fab fa-instagram"> Instagram </i></a></li>
-<li class="col-md-4"> <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"> Youtube </i></a></li>
+<div class="container">
+<ul id="social-networks" class="row">
+<li class="col-md-4"> <a href="https://www.facebook.com/" target="_blank" class="fab fa-facebook"> Facebook</a></li>
+<li class="col-md-4"> <a href="https://www.instagram.com/?hl=en" target="_blank" class="fab fa-instagram"> Instagram</a></li>
+<li class="col-md-4"> <a href="https://www.youtube.com/" target="_blank" class="fab fa-youtube"> Youtube </a></li>
 </ul>
 </div>
 </div>
-</footer>
+</section>
 </body>
 </html>
 
