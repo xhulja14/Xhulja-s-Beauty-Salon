@@ -7,8 +7,8 @@
 
 <!--Images-->
 
-![Nails](https://scontent.fdub3-1.fna.fbcdn.net/v/t1.0-9/p960x960/46489612_2180181588907954_3426005273540558848_o.jpg?_nc_cat=111&_nc_sid=9e2e56&_nc_ohc=APEiiG9BBWYAX82fpJh&_nc_ht=scontent.fdub3-1.fna&_nc_tp=6&oh=199d73204804663d3a95dbb569c02630&oe=5F223FC3)
-![Nails](https://scontent.fdub3-1.fna.fbcdn.net/v/t1.0-9/36660756_2076876245905156_6742242676327841792_o.jpg?_nc_cat=108&_nc_sid=9e2e56&_nc_ohc=vOqY2WbFxTsAX8emZCj&_nc_ht=scontent.fdub3-1.fna&oh=c484fefdd9a59d7cf92e07bf45b014c9&oe=5F2468CF)
+![Nails](https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/images/20200726_203517.jpg)
+![Nails](https://dcc28af6-f99b-4c1a-923d-9b9babc73bb0.ws-eu01.gitpod.io/mini-browser/workspace/Xhulja-s-Beauty-Salon/assets/css/images/20200726_203754.jpg)
 
 
 Thank you for visiting my website. You will find all the information about my project in this README.md file.
@@ -112,7 +112,7 @@ Hope you will enjoy coding.
 
 
 
-  * __Expextations__:
+  * __Expectations__:
 
   * Content is visually satisfying and informative.
   
@@ -121,7 +121,7 @@ Hope you will enjoy coding.
   * Form Validation works correctly.
 
 
-# Design Choises
+# Design Choices
 
 * __Fonts__:
   
@@ -169,7 +169,7 @@ Hope you will enjoy coding.
 
 ## Wireframes:
 
-I built Wireframes using [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwl4v4BRDaARIsAFjATPlYpXIjRR0-L308Af_Usr5Zz7_AO_kIghwLibynrZZY548o6rkIqbcaAt6NEALw_wcB).  
+I built Wireframes using [Balsamiq Wireframes](/workspace/Xhulja-s-Beauty-Salon/assets/wireframes).  
 It was very simple design just to get the idea how is going to look the structure of the page in different devices.
  
 
